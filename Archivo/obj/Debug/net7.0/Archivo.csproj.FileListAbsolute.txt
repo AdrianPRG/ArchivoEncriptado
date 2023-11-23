@@ -1,0 +1,14 @@
+C:\Users\adrix\RiderProjects\Archivo\Archivo\bin\Debug\net7.0\Archivo.exe
+C:\Users\adrix\RiderProjects\Archivo\Archivo\bin\Debug\net7.0\Archivo.deps.json
+C:\Users\adrix\RiderProjects\Archivo\Archivo\bin\Debug\net7.0\Archivo.runtimeconfig.json
+C:\Users\adrix\RiderProjects\Archivo\Archivo\bin\Debug\net7.0\Archivo.dll
+C:\Users\adrix\RiderProjects\Archivo\Archivo\bin\Debug\net7.0\Archivo.pdb
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\Archivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\Archivo.AssemblyInfoInputs.cache
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\Archivo.AssemblyInfo.cs
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\Archivo.csproj.CoreCompileInputs.cache
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\Archivo.dll
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\refint\Archivo.dll
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\Archivo.pdb
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\Archivo.genruntimeconfig.cache
+C:\Users\adrix\RiderProjects\Archivo\Archivo\obj\Debug\net7.0\ref\Archivo.dll
